@@ -44,6 +44,7 @@ python manage.py runserver
 > Any `API Platform` or `Frontend Tech` can be used to test out the backend features.
 
 We have used `POSTMAN` to check the working of our backend.
+You can access the [API collection here](https://www.postman.com/aerospace-saganist-90809/workspace/user-auth-api-test/collection/21641473-38b8913f-3697-4263-9026-1e29d5374cbc?action=share&creator=21641473) to run on your localhost.
 
 ![Postman](https://drive.google.com/uc?id=1yBzYAcuSVCChvVbAe5xP2wok1N9WhISG)
 
@@ -81,7 +82,7 @@ JSON Response
     "refresh": "refresh_token"
 }
 ```
-![](https://drive.google.com/uc?id=17ESMJWF9bhoMFGXsZQcqBmfV9oiauxmJ)
+![Register User](https://drive.google.com/uc?id=17ESMJWF9bhoMFGXsZQcqBmfV9oiauxmJ)
 
 
 ### - Login User 
@@ -100,7 +101,7 @@ JSON Response
     "refresh": "refresh_token"
 }
 ```
-![](https://drive.google.com/uc?id=177HqR_1Z-M_YV7NR_3pXw0RpyeX5M1Ma)
+![Login User](https://drive.google.com/uc?id=177HqR_1Z-M_YV7NR_3pXw0RpyeX5M1Ma)
 
 
 ### - Logout User 
@@ -120,7 +121,7 @@ JSON Response
     "msg": "Logged Out"
 }
 ```
-![](https://drive.google.com/uc?id=1yZhNfd7XxSxROZ_a6x5UjEyJAcv66X00)
+![Logout User](https://drive.google.com/uc?id=1yZhNfd7XxSxROZ_a6x5UjEyJAcv66X00)
 
 
 ### - Refresh Access Token 
@@ -137,7 +138,7 @@ JSON Response
     "access": "access_token"
 }
 ```
-![](https://drive.google.com/uc?id=1DZHsDRvhq9NrFG7LIbZG8F9YRJcMlmpM)
+![Refresh Token](https://drive.google.com/uc?id=1DZHsDRvhq9NrFG7LIbZG8F9YRJcMlmpM)
 
 
 ### - Get User Profile Details 
@@ -156,7 +157,7 @@ JSON Response
     "country": ""
 }
 ```
-![](https://drive.google.com/uc?id=17lKkKP-5ksoksX1cLgXiVYpML-jVGd0G)
+![Get Profile](https://drive.google.com/uc?id=17lKkKP-5ksoksX1cLgXiVYpML-jVGd0G)
 
 
 ### - Update User Profile Details 
@@ -184,7 +185,7 @@ JSON Response
     "country": ""
 }
 ```
-![](https://drive.google.com/uc?id=1PNTHrUhlCTkULJYck6huU2JfA4Dpi0hg)
+![Update/Create Profile](https://drive.google.com/uc?id=1PNTHrUhlCTkULJYck6huU2JfA4Dpi0hg)
 
 
 ### - Add User Profile Details 
@@ -220,7 +221,7 @@ JSON Response
     "msg": "Expired & Blacklisted Tokens have been Flushed"
 }
 ```
-![](https://drive.google.com/uc?id=1mDb2_MkstzgBNXTerQGow6P4eSZwZ14s)
+![Flush Expired/Blacklisted Tokens](https://drive.google.com/uc?id=1mDb2_MkstzgBNXTerQGow6P4eSZwZ14s)
 
 
 > Check out more projects by `Aayush Goyal` at [Aayush5sep][aayush]
