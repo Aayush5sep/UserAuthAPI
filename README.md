@@ -44,7 +44,9 @@ python manage.py runserver
 > Any `API Platform` or `Frontend Tech` can be used to test out the backend features.
 
 We have used `POSTMAN` to check the working of our backend.
+
 ![Postman](https://drive.google.com/uc?id=1yBzYAcuSVCChvVbAe5xP2wok1N9WhISG)
+
 The `request` & `response` format has been shown respectively in RESTful Endpoints.
 
 ## RESTful Endpoints
