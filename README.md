@@ -44,7 +44,7 @@ python manage.py runserver
 > Any `API Platform` or `Frontend Tech` can be used to test out the backend features.
 
 We have used `POSTMAN` to check the working of our backend.
-You can access the [API collection here](https://www.postman.com/aerospace-saganist-90809/workspace/user-auth-api-test/collection/21641473-38b8913f-3697-4263-9026-1e29d5374cbc?action=share&creator=21641473) to run on your localhost.
+You can access the [API collection here](https://www.postman.com/aerospace-saganist-90809/workspace/django-jwt-user-auth-api-test/collection/21641473-38b8913f-3697-4263-9026-1e29d5374cbc?action=share&creator=21641473) to run on your localhost.
 
 ![Postman](https://drive.google.com/uc?id=1yBzYAcuSVCChvVbAe5xP2wok1N9WhISG)
 
