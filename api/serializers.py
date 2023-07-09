@@ -63,6 +63,7 @@ class UserRegisterSerializer(serializers.ModelSerializer):
             password = validated_data['password']
             validate_password(password=password,user=user)
         except ValidationError as err:
+            user.delete()
             raise serializers.ValidationError({'error':err.messages})
 
         # Register the user if everything is done correct
